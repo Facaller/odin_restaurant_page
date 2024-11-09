@@ -1,0 +1,5 @@
+# Node modules directory
+/node_modules/
+
+# Build output directory (Webpack's default output folder)
+/dist/
